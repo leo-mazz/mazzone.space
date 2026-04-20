@@ -1,6 +1,8 @@
 ## README
 This is the source code for [mazzone.space](https://mazzone.space)
 
+First, install Ruby dependencies (for example via `ruby-install` and `chruby`).
+
 To bundle and serve for local development (with the optional `--drafts` flag):
 
 ```
